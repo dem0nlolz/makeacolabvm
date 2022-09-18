@@ -10,4 +10,7 @@ Currently available OSes:
 
 More coming soon! 
 
+Join our Discord server! 
+ <a class="github-button" href="https://discord.gg/WTk4SUpckx" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-show-count="true" aria-label="Discord invite to Project MakeAColabVM">Click here!</a>
+
 By the way, files are not mine.
