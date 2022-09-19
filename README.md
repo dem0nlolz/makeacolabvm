@@ -9,6 +9,7 @@ Currently available OSes:
 * Windows XP
 * Windows 7
 * Windows 10
+* Also community scripts...
 
 More coming soon! 
 
